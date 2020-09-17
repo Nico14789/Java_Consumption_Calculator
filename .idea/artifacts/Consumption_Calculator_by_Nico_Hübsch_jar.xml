@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Consumption Calculator by Nico Hübsch:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Consumption_Calculator_by_Nico_Hübsch_jar</output-path>
+    <root id="archive" name="Consumption Calculator by Nico Hübsch.jar">
+      <element id="module-output" name="Java Berufsschule AE Modul 03" />
+    </root>
+  </artifact>
+</component>
